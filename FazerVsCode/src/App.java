@@ -1,7 +1,14 @@
 import java.util.Scanner;
 
 public class App {
-        //Comentário
+    /*
+        * Henriky de Sena Rodrigues
+        * 2920482221029
+        * 22 anos
+        * https://github.com/henrikySena-FATEC / @henrikySena-FATEC
+        * https://www.linkedin.com/in/henriky-sena-643010234/
+        * ADS 5º semestre
+        */
 
     public static void funcao_teste (){
         //Biblioteca para entrada de dados
